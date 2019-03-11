@@ -21,4 +21,5 @@ JS file is located in jscript/index folder.
 no CSS files used.
 
 FrontEnd styling Framework was provided by Bootstrap 4.
+
 DB migration from https://jsonplaceholder.typicode.com/users via migration system provided by the Framework (including creating the DB and populating it).
