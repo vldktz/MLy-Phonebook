@@ -10,10 +10,15 @@ basically the app has 4 pages:
 
 user search page uses async calls to the server with the query given in the search input and populate the results to the page.
 
-controllers are located in protected/controllers folder
-models are located in protected/models folder
-views are located in protected/views folder
-JS file is located in jscript/index folder
-no CSS files used
+controllers are located in protected/controllers folder.
+
+models are located in protected/models folder.
+
+views are located in protected/views folder.
+
+JS file is located in jscript/index folder.
+
+no CSS files used.
+
 FrontEnd styling Framework was provided by Bootstrap 4.
 DB migration from https://jsonplaceholder.typicode.com/users via migration system provided by the Framework (including creating the DB and populating it).
